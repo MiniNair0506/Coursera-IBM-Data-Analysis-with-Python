@@ -1,1 +1,1 @@
-# Coursera-IBM-Data-Analysis-with-Python
+# Coursera/IBM-Data Analysis with Python
